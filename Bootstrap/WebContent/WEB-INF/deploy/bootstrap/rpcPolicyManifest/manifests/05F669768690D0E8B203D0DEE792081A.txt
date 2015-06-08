@@ -1,0 +1,2 @@
+serviceClass: gwt.boostrap.test.client.GreetingService
+path: D5E18057247986D95BDE0E765DB8923F.gwt.rpc

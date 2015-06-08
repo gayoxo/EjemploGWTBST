@@ -1,0 +1,3 @@
+# Module bootstrap
+# RPC service class, partial path of RPC policy file
+gwt.boostrap.test.client.GreetingService, D5E18057247986D95BDE0E765DB8923F.gwt.rpc
