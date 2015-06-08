@@ -1,1 +1,29 @@
-/test-classes/
+*.class
+
+# Package Files #
+gwt-servlet.jar
+*.war
+*.tmp
+*.symbolMap
+
+# gwt caches and compiled units #
+war/gwt_bree/
+WebContent/gwt_bree/
+gwt-unitCache/
+
+# boilerplate generated classes #
+.apt_generated/
+
+# more caches and things from deploy #
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+WebContent/WEB-INF/deploy/
+WebContent/WEB-INF/classes/
+WebContent/modeleditor2013/
+WebContent/modeleditor2013/gwt/clean/clean.css
+WebContent/modeleditor2013/gwt/clean/clean_rtl.css
+Bootstrap/WebContent/WEB-INF/deploy/
+Bootstrap/WebContent/WEB-INF/classes/
+Bootstrap/WebContent/modeleditor2013/
+Bootstrap/WebContent/modeleditor2013/gwt/clean/clean.css
+Bootstrap/WebContent/modeleditor2013/gwt/clean/clean_rtl.css
